@@ -1,0 +1,1 @@
+https://sanyuesha.com/2017/07/22/how-to-understand-go-interface/

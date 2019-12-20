@@ -1,0 +1,1 @@
+GOPROXY="https://athens.azurefd.net" go build t1.go
